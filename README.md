@@ -133,3 +133,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangvinh&theme=tokyo-night" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=dangvinh&label=Profile%20views&color=0e75b6&style=plastic)
