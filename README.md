@@ -8,6 +8,7 @@
 - 🔧 7+ years of experience in software development
 - 🧠 Currently focused on **backend engineering**, building scalable, secure APIs using **Node.js**, **TypeScript**, and **PostgreSQL**
 - 💳 Hands-on with **payments & fintech** — Stripe (Connect, webhooks, reconciliation, refunds), payment-session lifecycle, and secure multi-tenant APIs
+- 🤖 Exploring AI tooling — built an MCP server (Model Context Protocol) for OCR
 - 🎯 Goal: Become a world-class backend engineer working remotely for international companies
 - 🏗️ Passionate about **Cloud-native development**, **DevOps practices**, and **System Design**
 - 💬 I share knowledge in Vietnamese and English to help other developers grow
@@ -105,7 +106,7 @@
 
 ### 📫 Contact
 
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:developer.vinh.dangquang@gmail.com)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quangvinha3@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dqvinh)
 - 🤝 If you're looking to hire a Backend / Fintech Engineer, feel free to reach out!
 - 🗂️ Most of my production work lives in private company repos; the public repos here are side experiments & references.
