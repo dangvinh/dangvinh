@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinh Dang</h1>
-<h3 align="center">Senior Full Stack Developer specializing in Backend with Node.js & TypeScript</h3>
+<h3 align="center">Senior Backend Engineer · Node.js & TypeScript · Payments & Fintech</h3>
 
 ---
 
@@ -7,6 +7,7 @@
 
 - 🔧 7+ years of experience in software development
 - 🧠 Currently focused on **backend engineering**, building scalable, secure APIs using **Node.js**, **TypeScript**, and **PostgreSQL**
+- 💳 Hands-on with **payments & fintech** — Stripe (Connect, webhooks, reconciliation, refunds), payment-session lifecycle, and secure multi-tenant APIs
 - 🎯 Goal: Become a world-class backend engineer working remotely for international companies
 - 🏗️ Passionate about **Cloud-native development**, **DevOps practices**, and **System Design**
 - 💬 I share knowledge in Vietnamese and English to help other developers grow
@@ -106,8 +107,8 @@
 
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:developer.vinh.dangquang@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dqvinh)
-- 🤝 If you're looking to hire a Full Stack or Backend Developer, feel free to reach out!
-- 🔄 I’ve been inactive on GitHub for a while — but now I'm back and actively contributing again!
+- 🤝 If you're looking to hire a Backend / Fintech Engineer, feel free to reach out!
+- 🗂️ Most of my production work lives in private company repos; the public repos here are side experiments & references.
 
 ---
 
